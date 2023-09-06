@@ -17,7 +17,6 @@
 
 <br/>
 <br/>
-<br/>
 
 ## ⚙ Repository
 
@@ -25,17 +24,17 @@
     
     [<img src="./img/logo2.png" alt="COCO" width = "480" height="270" />](https://github.com/PDA-PRO)
     
-    > COCO는 <br>코딩 초보자</br>들을 위한 온라인 저지 서비스로
+    > COCO는 <b>코딩 초보자</b>들을 위한 온라인 저지 서비스로
     > 튜터, 튜티 서비스 및 다양한 문제를 통해
     > 알고리즘 문제 해결과 코딩 스킬 향상에 도움을 주는 웹 어플리케이션입니다.
 
     - 개발 기간 : 2022.10 ~ 2023.09
-    - 기술 스택
-        (1) Front-end : React JS, Bootstrap
-        (2) Back-end : FastAPI(Python 3)
-        (3) Database : MySQL
-        (4) 채점 서버: isolate
-        (5) 협업: Github,, Jira        
+    - 기술 스택<br/>
+        (1) Front-end : React JS, Bootstrap<br/>
+        (2) Back-end : FastAPI(Python 3)<br/>
+        (3) Database : MySQL<br/>
+        (4) 채점 서버: isolate<br/>
+        (5) 협업: Github,, Jira<br/>        
     - 핵심 기술
         - MySQL로 데이터 관리가 가능한 FastAPI 서버
         - isolate를 활용한 소스 코드 채점 서버
