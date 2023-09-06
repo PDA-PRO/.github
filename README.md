@@ -2,6 +2,7 @@
 
 > 코딩을 즐겁고 재밌게 <br/>
 > PDA-PRO로 걸어갑니다!
+[<img src="./img/pda.png" alt="COCO" width = "240" height="135" />](https://github.com/PDA-PRO)
 
 <br/>
 <br/>
@@ -22,7 +23,7 @@
 
 - **초보자들을 위한 Coding Coach (COCO)**
     
-    [<img src="./img/logo2.png" alt="COCO" width = "480" height="270" />](https://github.com/PDA-PRO)
+    [<img src="./img/logo1.png" alt="COCO" width = "480" height="270" />](https://github.com/PDA-PRO)
     
     > COCO는 <b>코딩 초보자</b>들을 위한 온라인 저지 서비스로
     > 튜터, 튜티 서비스 및 다양한 문제를 통해
