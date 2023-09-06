@@ -1,4 +1,4 @@
-# [<img src="./img/pda.png" alt="COCO" width = "30" height="30" />PDA-PRO 
+# PDA-PRO 
 
 > 코딩을 즐겁고 재밌게 <br/>
 > PDA-PRO로 걸어갑니다! 
