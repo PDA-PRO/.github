@@ -1,8 +1,8 @@
 # PDA-PRO 
 
 > 코딩을 즐겁고 재밌게 <br/>
-> PDA-PRO로 걸어갑니다!
-[<img src="./img/pda.png" alt="COCO" width = "240" height="135" />](https://github.com/PDA-PRO)
+> PDA-PRO로 걸어갑니다! <br/>
+[<img src="./img/pda.png" alt="COCO" width = "120" height="70" />](https://github.com/PDA-PRO)
 
 <br/>
 <br/>
