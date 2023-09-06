@@ -9,10 +9,10 @@
 
 | 이름 | 소속 | github |
 | --- | --- | --- |
-| 조민수 <b>(팀장)</b> | 충북대학교 소트프웨어학과 | lookinmin |
-| 김광모 | 충북대학교 소프트웨어학과 | kkm0406 |
-| 서종원 | 충북대학교 소프트웨어학과 | styughjvbn |
-| 이서진 | 충북대학교 소프트웨어학과 | dltjwls1017 |
+| 조민수 <b>(팀장)</b> | 충북대학교 소트프웨어학과 | lookinmin(https://github.com/lookinmin) |
+| 김광모 | 충북대학교 소프트웨어학과 | kkm0406(https://github.com/kkm0406) |
+| 서종원 | 충북대학교 소프트웨어학과 | styughjvbn(https://github.com/styughjvbn) |
+| 이서진 | 충북대학교 소프트웨어학과 | dltjwls1017(https://github.com/dltjwls1017) |
 <br/>
 <br/>
 
