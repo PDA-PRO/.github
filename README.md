@@ -36,7 +36,6 @@
         - MySQL로 데이터 관리가 가능한 FastAPI 서버
         - isolate를 활용한 소스 코드 채점 서버
         - React 및 Bootstrap 를 이용한 웹 페이지 제작
-
 <br/>
 <br/>
 
