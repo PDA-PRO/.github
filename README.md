@@ -26,14 +26,13 @@
     > 튜터, 튜티 서비스 및 다양한 문제를 제공하여<br/>
     > 알고리즘 문제 해결과 코딩 스킬 향상에 도움을 주는 웹 어플리케이션입니다.
 
-    - 개발 기간 : 2022.10 ~ 2023.09
-    - 기술 스택<br/>
+    - ⚒️ 기술 스택<br/>
         - Front-end : React JS, Bootstrap
         - Back-end : FastAPI(Python 3)
         - Database : MySQL
         - 채점 서버: isolate
         - 협업: Github, Jira   
-    - 핵심 기술
+    - ⚒️ 핵심 기술
         - MySQL로 데이터 관리가 가능한 FastAPI 서버
         - isolate를 활용한 소스 코드 채점 서버
         - React 및 Bootstrap 를 이용한 웹 페이지 제작
