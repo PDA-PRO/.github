@@ -13,7 +13,6 @@
 | 김광모 | 충북대학교 소프트웨어학과 | kkm0406 |
 | 서종원 | 충북대학교 소프트웨어학과 | styughjvbn |
 | 이서진 | 충북대학교 소프트웨어학과 | dltjwls1017 |
-
 <br/>
 <br/>
 
@@ -29,11 +28,11 @@
 
     - 개발 기간 : 2022.10 ~ 2023.09
     - 기술 스택<br/>
-        (1) Front-end : React JS, Bootstrap<br/>
-        (2) Back-end : FastAPI(Python 3)<br/>
-        (3) Database : MySQL<br/>
-        (4) 채점 서버: isolate<br/>
-        (5) 협업: Github,, Jira<br/>        
+        - Front-end : React JS, Bootstrap
+        - Back-end : FastAPI(Python 3)
+        - Database : MySQL
+        - 채점 서버: isolate
+        - 협업: Github,, Jira   
     - 핵심 기술
         - MySQL로 데이터 관리가 가능한 FastAPI 서버
         - isolate를 활용한 소스 코드 채점 서버
