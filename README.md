@@ -32,7 +32,7 @@
         - Back-end : FastAPI(Python 3)
         - Database : MySQL
         - 채점 서버: isolate
-        - 협업: Github,, Jira   
+        - 협업: Github, Jira   
     - 핵심 기술
         - MySQL로 데이터 관리가 가능한 FastAPI 서버
         - isolate를 활용한 소스 코드 채점 서버
