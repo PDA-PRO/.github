@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-## ⚙ COCO
+## 🖥 COCO
 
 - **초보자들을 위한 Coding Coach (COCO)**
     
