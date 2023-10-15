@@ -42,3 +42,6 @@
 ## ⚙ Repository
 (1) Front-End : [COCO_Front_End](https://github.com/PDA-PRO/COCO_Front_End)<br/>
 (2) Back-End : [COCO_Back_End](https://github.com/PDA-PRO/COCO_Back_End)
+
+## 작품 포스터
+    [<img src="./img/졸작 포스터.png" alt="COCO" width = "300" height="300" />](https://github.com/PDA-PRO)
