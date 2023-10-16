@@ -44,4 +44,4 @@
 (2) Back-End : [COCO_Back_End](https://github.com/PDA-PRO/COCO_Back_End)
 
 ## 작품 포스터
-[<img src="./img/졸작 포스터.png" alt="COCO" width = "800" height="1100" />](https://github.com/PDA-PRO)
+[<img src="./img/poster.jpg" alt="COCO" width = "100%" />](https://github.com/PDA-PRO)
