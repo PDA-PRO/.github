@@ -30,6 +30,7 @@
         - Front-end : React JS, Bootstrap
         - Back-end : FastAPI(Python 3)
         - Database : MySQL
+        - AI API : ChatGPT 3.5 turbo, FAISS From Facebook, GraphCodeBERT
         - 채점 서버: isolate
         - 협업: Github, Jira   
     - 핵심 기술
