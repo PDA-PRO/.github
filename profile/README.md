@@ -9,7 +9,7 @@
 
 | 이름 | 소속 | github |
 | --- | --- | --- |
-| 조민수 <b>(팀장)</b> | 충북대학교 소트프웨어학과 | https://github.com/lookinmin |
+| 조민수 <b>(팀장)</b> | 충북대학교 소프트웨어학과 | https://github.com/lookinmin |
 | 김광모 | 충북대학교 소프트웨어학과 | https://github.com/kkm0406 |
 | 서종원 | 충북대학교 소프트웨어학과 | https://github.com/styughjvbn |
 | 이서진 | 충북대학교 소프트웨어학과 | https://github.com/dltjwls1017 |
