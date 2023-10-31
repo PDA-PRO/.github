@@ -32,11 +32,14 @@
         - Database : MySQL
         - AI & API : ChatGPT 3.5 turbo, FAISS From Facebook, GraphCodeBERT
         - 채점 서버: isolate
-        - 협업: Github, Jira   
+        - 협업: Github, Jira
     - 핵심 기술
         - MySQL로 데이터 관리가 가능한 FastAPI 서버
         - isolate를 활용한 소스 코드 채점 서버
         - React 및 Bootstrap 를 이용한 웹 페이지 제작
+        - GraphCodeBERT 모델 튜닝을 통한 WPC : CODE내 Logical Error를 찾아 해결
+        - ChatGPT 3.5 turbo API를 통한 AI 문제 생성, AI Q&A, CODE 자동 개선 및 코멘트
+        - FAISS from FACEBOOK을 통한 다른 로직의 코드 찾기
 <br/>
 <br/>
 
