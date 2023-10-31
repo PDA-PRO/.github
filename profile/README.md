@@ -45,4 +45,7 @@
 
 ## ⚙ Repository
 (1) Front-End : [COCO_Front_End](https://github.com/PDA-PRO/COCO_Front_End)<br/>
-(2) Back-End : [COCO_Back_End](https://github.com/PDA-PRO/COCO_Back_End)
+(2) Back-End : [COCO_Back_End](https://github.com/PDA-PRO/COCO_Back_End)<br/>
+(3) WPC AI : [COCO_AI](https://github.com/PDA-PRO/COCO_AI)<br/>
+(4) Plugin System : [COCO_Plugin](https://github.com/PDA-PRO/COCO-plugin)<br/>
+(5) COCO Deploy  : [COCO_Deploy](https://github.com/PDA-PRO/COCO-deploy)<br/>
