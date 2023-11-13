@@ -12,7 +12,6 @@
 | 조민수 <b>(팀장)</b> | 충북대학교 소프트웨어학과 | https://github.com/lookinmin |
 | 김광모 | 충북대학교 소프트웨어학과 | https://github.com/kkm0406 |
 | 서종원 | 충북대학교 소프트웨어학과 | https://github.com/styughjvbn |
-| 이서진 | 충북대학교 소프트웨어학과 | https://github.com/dltjwls1017 |
 <br/>
 <br/>
 
@@ -44,6 +43,10 @@
         - GraphCodeBERT 모델 튜닝을 통한 WPC : CODE내 Logical Error를 찾아 해결
         - ChatGPT 3.5 turbo API를 통한 AI 문제 생성, AI Q&A, CODE 자동 개선 및 코멘트
         - FAISS from FACEBOOK을 통한 다른 로직의 코드 찾기
+     
+    - 수상 이력
+        - 2023 충북대학교 전자정보대학 소프트웨어학부 캡스톤 디자인 전시회(졸업작품) 대상
+        - 2023 공개SW 개발자 대회 동상 - 비아웹 대표상
 <br/>
 <br/>
 
