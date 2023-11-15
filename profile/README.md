@@ -18,16 +18,19 @@
 ## 🖥 COCO
 
 - **초보자들을 위한 Coding Coach (COCO)**
-
-### DEMO page
-- http://codingcoach.co.kr/
     
     [<img src="./img/logo1.png" alt="COCO" width = "300" height="300" />](https://github.com/PDA-PRO)
     
     > COCO는 <b>코딩 초보자</b>들을 위한 온라인 저지 서비스로<br/>
     > 튜터·튜티 서비스 및 다양한 문제를 제공하여<br/>
-    > 알고리즘 문제 해결과 코딩 스킬 향상에 도움을 주는 웹 어플리케이션입니다.
+    > 알고리즘 문제 해결과 코딩 스킬 향상에 도움을 주는 웹 어플리케이션입니다.  
 
+    ### [⚡ DEMO page](http://codingcoach.co.kr/)
+
+    [<img src="https://github.com/PDA-PRO/.github/assets/80380576/18e8c238-9204-4676-854c-0a6eb4900e39" alt="COCO" width = "450" height="250" />](https://github.com/PDA-PRO/.github/assets/80380576/18e8c238-9204-4676-854c-0a6eb4900e39)
+    [<img src="https://github.com/PDA-PRO/.github/assets/80380576/f503c1d4-9fa1-4c76-bba7-ddafab067245" alt="COCO" width = "450" height="250" />](https://github.com/PDA-PRO/.github/assets/80380576/f503c1d4-9fa1-4c76-bba7-ddafab067245)  
+    [<img src="https://github.com/PDA-PRO/.github/assets/80380576/ebdb50b3-3b63-4778-a346-c9f50d08e1a5" alt="COCO" width = "450" height="250" />](https://github.com/PDA-PRO/.github/assets/80380576/ebdb50b3-3b63-4778-a346-c9f50d08e1a5)
+    [<img src="https://github.com/PDA-PRO/.github/assets/80380576/98d3ce7e-3d54-453f-a509-e23fe56cb0fd" alt="COCO" width = "450" height="250" />](https://github.com/PDA-PRO/.github/assets/80380576/98d3ce7e-3d54-453f-a509-e23fe56cb0fd)  
     - 기술 스택<br/>
         - Front-end : React JS, Bootstrap
         - Back-end : FastAPI(Python 3)
