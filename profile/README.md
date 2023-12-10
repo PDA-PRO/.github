@@ -64,7 +64,7 @@
 <hr/>
 
 ## AWARDS
-<img src="https://github.com/PDA-PRO/.github/assets/dae" width="60%">
+<img src="./img/dae.jpg" width="60%">
 #
 <img src="./img/gongae.jpg" width="60%">
 #
