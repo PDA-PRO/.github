@@ -64,4 +64,9 @@
 <hr/>
 
 ## AWARDS
+<img src="./img/dae.jpg" width="60%">
+#
+<img src="./img/gongae.jpg" width="60%">
+#
+<img src="./img/sw.jpg" width="60%">
 
