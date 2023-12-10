@@ -27,10 +27,10 @@
 
     ### [⚡ DEMO page](http://codingcoach.co.kr/)
 
-    [<img src="https://github.com/PDA-PRO/.github/assets/80380576/18e8c238-9204-4676-854c-0a6eb4900e39" alt="COCO" width = "450" height="250" />](https://github.com/PDA-PRO/.github/assets/80380576/18e8c238-9204-4676-854c-0a6eb4900e39)
-    [<img src="https://github.com/PDA-PRO/.github/assets/80380576/f503c1d4-9fa1-4c76-bba7-ddafab067245" alt="COCO" width = "450" height="250" />](https://github.com/PDA-PRO/.github/assets/80380576/f503c1d4-9fa1-4c76-bba7-ddafab067245)  
-    [<img src="https://github.com/PDA-PRO/.github/assets/80380576/ebdb50b3-3b63-4778-a346-c9f50d08e1a5" alt="COCO" width = "450" height="250" />](https://github.com/PDA-PRO/.github/assets/80380576/ebdb50b3-3b63-4778-a346-c9f50d08e1a5)
-    [<img src="https://github.com/PDA-PRO/.github/assets/80380576/98d3ce7e-3d54-453f-a509-e23fe56cb0fd" alt="COCO" width = "450" height="250" />](https://github.com/PDA-PRO/.github/assets/80380576/98d3ce7e-3d54-453f-a509-e23fe56cb0fd)  
+    [<img src="https://github.com/PDA-PRO/.github/assets/80380576/18e8c238-9204-4676-854c-0a6eb4900e39" alt="COCO" width = "450" height="250" />](https://github.com/PDA-PRO/.github/assets/80380576/18e8c238-9204-4676-854c-0a6eb4900e39) <br/>
+    [<img src="https://github.com/PDA-PRO/.github/assets/80380576/f503c1d4-9fa1-4c76-bba7-ddafab067245" alt="COCO" width = "450" height="250" />](https://github.com/PDA-PRO/.github/assets/80380576/f503c1d4-9fa1-4c76-bba7-ddafab067245) <br/> 
+    [<img src="https://github.com/PDA-PRO/.github/assets/80380576/ebdb50b3-3b63-4778-a346-c9f50d08e1a5" alt="COCO" width = "450" height="250" />](https://github.com/PDA-PRO/.github/assets/80380576/ebdb50b3-3b63-4778-a346-c9f50d08e1a5) <br/>
+    [<img src="https://github.com/PDA-PRO/.github/assets/80380576/98d3ce7e-3d54-453f-a509-e23fe56cb0fd" alt="COCO" width = "450" height="250" />](https://github.com/PDA-PRO/.github/assets/80380576/98d3ce7e-3d54-453f-a509-e23fe56cb0fd) <br/> 
     - 기술 스택<br/>
         - Front-end : React JS, Bootstrap
         - Back-end : FastAPI(Python 3)
