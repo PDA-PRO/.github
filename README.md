@@ -32,12 +32,12 @@
     [<img src="https://github.com/PDA-PRO/.github/assets/80380576/ebdb50b3-3b63-4778-a346-c9f50d08e1a5" alt="COCO" width = "450" height="250" />](https://github.com/PDA-PRO/.github/assets/80380576/ebdb50b3-3b63-4778-a346-c9f50d08e1a5) <br/>
     [<img src="https://github.com/PDA-PRO/.github/assets/80380576/98d3ce7e-3d54-453f-a509-e23fe56cb0fd" alt="COCO" width = "450" height="250" />](https://github.com/PDA-PRO/.github/assets/80380576/98d3ce7e-3d54-453f-a509-e23fe56cb0fd) <br/> 
     - 기술 스택<br/>
-        - Front-end : React JS, Bootstrap
-        - Back-end : FastAPI(Python 3)
+        - Front-end : React JS, Bootstrap, mui
+        - Back-end : FastAPI(Python3)
         - Database : MySQL
         - AI & API : ChatGPT 3.5 turbo, FAISS From Facebook, GraphCodeBERT
         - 채점 서버: isolate
-        - 협업: Github, Jira
+        - 협업: Git, JIRA
 
     - 핵심 기술
         - MySQL로 데이터 관리가 가능한 FastAPI 서버
