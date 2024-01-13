@@ -68,4 +68,4 @@
 #
 <img src="./img/gongae.jpg" width="60%"> <br/>
 #
-<img src="./img/sw.jpg" width="60%"> <br/>
+<img src="./img/one.jpg" width="25%"> | <img src="./img/two.jpg" width="25%"> | <img src="./img/three.jpg" width="25%">
