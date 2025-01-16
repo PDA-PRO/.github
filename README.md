@@ -19,13 +19,11 @@
 
 - **초보자들을 위한 Coding Coach (COCO)**
     
-    [<img src="./img/logo1.png" alt="COCO" width = "300" height="300" />](https://github.com/PDA-PRO)
+    [<img src="/img/logo1.png" alt="COCO" width = "300" height="300" />](https://github.com/PDA-PRO)
     
     > COCO는 <b>코딩 초보자</b>들을 위한 온라인 저지 서비스로<br/>
     > 튜터·튜티 서비스 및 다양한 문제를 제공하여<br/>
     > 알고리즘 문제 해결과 코딩 스킬 향상에 도움을 주는 웹 어플리케이션입니다.  
-
-    ### [⚡ DEMO page](http://codingcoach.co.kr/)
 
     [<img src="https://github.com/PDA-PRO/.github/assets/80380576/18e8c238-9204-4676-854c-0a6eb4900e39" alt="COCO" width = "450" height="250" />](https://github.com/PDA-PRO/.github/assets/80380576/18e8c238-9204-4676-854c-0a6eb4900e39) <br/>
     [<img src="https://github.com/PDA-PRO/.github/assets/80380576/f503c1d4-9fa1-4c76-bba7-ddafab067245" alt="COCO" width = "450" height="250" />](https://github.com/PDA-PRO/.github/assets/80380576/f503c1d4-9fa1-4c76-bba7-ddafab067245) <br/> 
@@ -36,7 +34,7 @@
         - Back-end : FastAPI(Python3)
         - Database : MySQL
         - AI & API : ChatGPT 3.5 turbo, FAISS From Facebook, GraphCodeBERT
-        - 채점 서버: isolate
+        - 채점 서버 : isolate, Celery, Redis
         - 협업: Git, JIRA
 
     - 핵심 기술
@@ -64,8 +62,9 @@
 <hr/>
 
 ## AWARDS
-<img src="./img/dae.jpg" width="60%"> <br/>
-#
-<img src="./img/gongae.jpg" width="60%"> <br/>
-#
-<img src="./img/one.jpg" width="25%"> | <img src="./img/two.jpg" width="25%"> | <img src="./img/three.jpg" width="25%">
+### 2023 충북대학교 전자정보대학 소프트웨어학부 캡스톤 디자인 전시회(졸업작품) 대상
+<img src="/img/dae.jpg" width="60%"> <br/>
+### 2023 공개SW 개발자 대회 동상 - 비아웹 대표상
+<img src="/img/gongae.jpg" width="60%"> <br/>
+### 2023 오픈소스SW 동아리 최종 발표회 - 최우수상
+<img src="/img/one.jpg" width="25%"> | <img src="/img/two.jpg" width="25%"> | <img src="/img/three.jpg" width="25%">
