@@ -19,7 +19,7 @@
 
 - **초보자들을 위한 Coding Coach (COCO)**
     
-    [<img src="./img/logo1.png" alt="COCO" width = "300" height="300" />](https://github.com/PDA-PRO)
+    [<img src="/img/logo1.png" alt="COCO" width = "300" height="300" />](https://github.com/PDA-PRO)
     
     > COCO는 <b>코딩 초보자</b>들을 위한 온라인 저지 서비스로<br/>
     > 튜터·튜티 서비스 및 다양한 문제를 제공하여<br/>
@@ -64,13 +64,13 @@
 <hr/>
 
 ## AWARDS
-<img src="./img/dae.jpg" width="60%">
+<img src="/img/dae.jpg" width="60%">
 
 #
 
-<img src="./img/gongae.jpg" width="60%">
+<img src="/img/gongae.jpg" width="60%">
 
 #
 
-<img src="./img/one.jpg" width="25%"> | <img src="./img/two.jpg" width="25%"> | <img src="./img/three.jpg" width="25%">
+<img src="/img/one.jpg" width="25%"> | <img src="/img/two.jpg" width="25%"> | <img src="/img/three.jpg" width="25%">
 
